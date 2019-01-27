@@ -1,6 +1,6 @@
 # summer-intern-project
 
-The Project Consists of two Parts<br>
+The project Consists of two parts each with its seperate problem statement<br>
 
 ## Part 1:
 
